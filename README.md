@@ -4,3 +4,4 @@
 1[Dzaka Angela](https://github.com/DzakaAngela)
 2[Samuel Abu](https://github.com/Samuelabu2003)
 3[Ibrahim Mohammed](https://github.com/ibrahimmohammeddev)
+4[Frederick Acquah](https://github.com/Frederick-Acquah)
